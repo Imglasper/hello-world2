@@ -1,2 +1,2 @@
 # hello-world2
-Lea
+Learning the basics of GitHub
